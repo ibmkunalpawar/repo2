@@ -1,1 +1,4 @@
 line dev1
+dev1
+obj dev= new developer()
+done by dev1
